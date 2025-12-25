@@ -87,7 +87,7 @@ The version shared here is adapted for **portfolio and learning purposes**.
 
 ---
 
-## Contact
-For questions or discussions related to this project, feel free to connect via GitHub.
+## Author  
+***ALEN ALEX PAUL***
 
  
